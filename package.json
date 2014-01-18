@@ -1,0 +1,21 @@
+{
+  "name": "yal-server",
+  "version": "1.0.0",
+  "repository": "segmentio/yal-server",
+  "description": "extensible log server for YAL",
+  "keywords": [
+    "yal",
+    "logger",
+    "log",
+    "server"
+  ],
+  "dependencies": {
+    "axon": "~1.0.0"
+  },
+  "devDependencies": {
+    "yal": "~1.0.0",
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT"
+}
